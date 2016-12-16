@@ -1,1 +1,23 @@
+/*
+Programmers: Will Mueller, Alex Hallquist, Gino Gaxha
+Program: enemyAttack
+*/
 
+import javax.swing.*;
+import java.lang.*;
+import java.util.*;
+import java.text.*;
+
+public class enemyAttack
+{
+   public static int statSelect()
+   {
+      for(int pointsRemaining=7; pointsRemaining>0; pointsRemaining--)
+      {
+         
+   public static void main(String[] args)
+   {
+      
+   
+   }
+}
